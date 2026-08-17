@@ -1,4 +1,4 @@
-# attemptingCAgain
+# c_printArrayInReverse
 Exercise #1.  
 In your text file write a function that reverses an array of ints:  
 void reverse(int* array, int numElements){  
